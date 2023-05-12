@@ -1,5 +1,7 @@
-<h1>Aprendendo funcionalidades do GitHub</h1>
-Status do curso: em andamento
+# Aprendendo funcionalidades do GitHub
+> Status do curso: em andamento.
+
+Para rodar esse programa em sua máquina, por favor digite:
 ```
-npm install reac
+node app.js
 ```
